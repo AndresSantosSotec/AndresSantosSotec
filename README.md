@@ -14,17 +14,25 @@
 
 <h2 align="center">🚀 Sobre mí</h2>
 
-- 🌐 **Desarrollo**: Especializado en **Laravel**, **Django**, **Go** y aplicaciones móviles con **Java**.  
+- 🌐 **Desarrollo**: Especializado en **Laravel**, **Django**, **React**, y **Go** para aplicaciones backend y frontend.  
 - 🛠️ **Experiencia**: Implementación de APIs, migración de datos y arquitectura de sistemas.  
 - 🌱 **En constante aprendizaje**: Explorando orquestadores como **Docker** y **Kubernetes**.  
 - ✨ **Filosofía**: Escribir código limpio, escalable y que impacte de manera positiva.
 
 ---
 
-<h2 align="center">🛠️ Tecnologías</h2>
+<h2 align="center">🛠️ Habilidades</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,go,java,laravel,django,docker,mysql,postgres,git,github,linux&theme=light" alt="Tecnologías que manejo">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=php,python,go,java,laravel,django,docker" alt="Backend" />
+  
+  <h3>Bases de Datos</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de datos" />
+  
 </div>
 
 ---
