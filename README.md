@@ -52,12 +52,12 @@
   <a href="https://github.com/AndresSantosSotec/Orquideas_Ver0.2.git">
     <strong>🌿 Sistema de Orquídeas</strong>
   </a>
-  <p>Plataforma de registro y gestión de orquídeas utilizando Django.</p>
+  <p>Plataforma de registro y gestión de orquídeas</p>
   
   <a href="https://github.com/AndresSantosSotec/PG2_Demo.git">
     <strong>⚙️ API de Migraciones</strong>
   </a>
-  <p>Automatización de migraciones de datos con Laravel y Docker.</p>
+  <p>Automatización de migraciones de datos.</p>
 </div>
 
 ---
