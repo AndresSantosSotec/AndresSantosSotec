@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AndresSantosSotec">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Desarrollador+Backend+%26+Frontend;Especialista+en+Laravel%2C+Django%2C+Docker;Entusiasta+del+Desarrollo+Moderno">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Desarrollador+Backend+%26+Frontend;Especialista+en+Laravel%2C+Django%2C+Docker;Entusiasta+del+Desarrollo+Moderno;Open+Source+Contributor">
   </a>
 </p>
 
@@ -12,81 +12,126 @@
 
 ---
 
-<h2 align="center">🚀 Sobre mí</h2>
+## 🚀 Sobre mí
 
-- 🌐 **Desarrollo**: Especializado en **Laravel**, **Django**, **React**, y **Go** para aplicaciones backend y frontend.  
-- 🛠️ **Experiencia**: Implementación de APIs, migración de datos y arquitectura de sistemas.  
-- 🌱 **En constante aprendizaje**: Explorando orquestadores como **Docker** y **Kubernetes**.  
-- ✨ **Filosofía**: Escribir código limpio, escalable y que impacte de manera positiva.
+> El buen código no solo funciona, también inspira.
+
+- 🌐 **Desarrollo Full Stack**: Especializado en **Laravel**, **Django**, **React**, **Go** y **Vue.js**
+- 🏗️ **Arquitectura**: Diseño de APIs REST, microservicios y aplicaciones escalables
+- 🐳 **DevOps**: Experiencia con **Docker**, **Docker Compose** y conocimientos en **Kubernetes**
+- 📊 **Bases de Datos**: Optimización en **MySQL**, **PostgreSQL** y **MongoDB**
+- 🌱 **En constante aprendizaje**: Explorando **Kubernetes**, **CI/CD** y **Cloud Computing**
+- ✨ **Filosofía**: Escribir código limpio, escalable y que genere impacto positivo
 
 ---
 
-<h2 align="center">🛠️ Habilidades</h2>
+## 💻 Stack Tecnológico
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind" alt="Frontend" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=php,python,go,java,laravel,django" alt="Backend" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" alt="DevOps & Tools" />
+
+### Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Bases de datos" />
+
+---
+
+## 📊 Mis Estadísticas
 
 <div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresSantosSotec&show_icons=true&theme=github&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSantosSotec&layout=compact&theme=github" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresSantosSotec&theme=github" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌟 Proyectos Destacados
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌿 Sistema de Orquídeas</h3>
+      <p>Plataforma de registro y gestión de orquídeas</p>
+      <a href="https://github.com/AndresSantosSotec/Orquideas_Ver0.2.git">
+        <img src="https://img.shields.io/badge/Ver_Proyecto-GitHub-0078D7?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ API de Migraciones</h3>
+      <p>Automatización de migraciones de datos</p>
+      <a href="https://github.com/AndresSantosSotec/PG2_Demo.git">
+        <img src="https://img.shields.io/badge/Ver_Proyecto-GitHub-0078D7?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Objetivos & Roadmap
+
+- [ ] 🐳 Dominar **Docker** y **Kubernetes** en entornos de producción
+- [ ] 🚀 Profundizar en desarrollo escalable con **Go**
+- [ ] 📱 Crear aplicación móvil multiplataforma con **Flutter**
+- [ ] 🌐 Desarrollar 2-3 proyectos open-source populares
+- [ ] 📚 Crear contenido educativo en blog técnico
+- [ ] ☁️ Certificarme en **AWS** o **GCP**
+
+---
+
+## 🤝 Contribuciones & Comunidad
+
+- 📝 Activamente contribuyendo a proyectos open-source
+- 💡 Mentor de desarrolladores junior
+- 🎓 Participante en comunidades tech locales
+- 📢 Compartiendo conocimiento en redes sociales
+
+---
+
+## 📫 Contáctame
+
+<div align="center">
   
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=php,python,go,java,laravel,django,docker" alt="Backend" />
-  
-  <h3>Bases de Datos</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de datos" />
+  [![Email](https://img.shields.io/badge/Email-pablo2905andres@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo2905andres@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-santos-490b64254/)
+  [![Instagram](https://img.shields.io/badge/Instagram-4ndrex.php-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4ndrex.php/?hl=es-la)
+  [![GitHub](https://img.shields.io/badge/GitHub-AndresSantosSotec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresSantosSotec)
   
 </div>
 
 ---
 
-<h2 align="center">📊 Mis estadísticas</h2>
+## 🎓 Formación & Certificaciones
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresSantosSotec&show_icons=true&theme=github" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresSantosSotec&theme=github" height="160" />
-</div>
+- 🎯 Desarrollador Full Stack (en proceso)
+- 🐳 Conocimientos en Docker y containerización
+- 🔧 Especialización en APIs RESTful
 
 ---
 
-<h2 align="center">🌟 Proyectos Destacados</h2>
+## 📚 Recursos & Tools Favoritos
+
+- **IDE**: Visual Studio Code
+- **Versionado**: Git & GitHub
+- **Contenedores**: Docker
+- **Gestión de Proyectos**: GitHub Projects, Trello
+- **Documentación**: Notion, Markdown
+
+---
 
 <div align="center">
-  <a href="https://github.com/AndresSantosSotec/Orquideas_Ver0.2.git">
-    <strong>🌿 Sistema de Orquídeas</strong>
-  </a>
-  <p>Plataforma de registro y gestión de orquídeas</p>
   
-  <a href="https://github.com/AndresSantosSotec/PG2_Demo.git">
-    <strong>⚙️ API de Migraciones</strong>
-  </a>
-  <p>Automatización de migraciones de datos.</p>
+  ### ✨ "El buen código no solo funciona, también inspira." ✨
+  
+  <img src="https://komarev.com/ghpvc/?username=AndresSantosSotec&style=flat-square&color=0078D7" alt="Profile views" />
+  
 </div>
-
----
-
-<h2 align="center">📫 Contáctame</h2>
-
-<p align="center">
-  <a href="mailto:pablo2905andres@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pablo2905andres@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/andres-santos-490b64254/">
-    <img src="https://img.shields.io/badge/LinkedIn-Andrés%20Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/4ndrex.php/?hl=es-la">
-    <img src="https://img.shields.io/badge/Instagram-4ndrex.php-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
----
-
-<h2 align="center">🎯 Objetivos</h2>
-
-<ul>
-  <li>Dominar contenedores y orquestadores como <strong>Docker</strong> y <strong>Kubernetes</strong>.</li>
-  <li>Profundizar en el desarrollo de aplicaciones escalables con <strong>Go</strong>.</li>
-  <li>Crear una aplicación móvil multiplataforma con <strong>Flutter</strong>.</li>
-  <li>Contribuir a la comunidad open-source.</li>
-</ul>
-
----
-
-<h2 align="center">✨ "El buen código no solo funciona, también inspira." ✨</h2>
