@@ -108,6 +108,20 @@ https://github.com/AndresSantosSotec/PG2_Demo
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=benitoquib&theme=tokyonight&hide_border=true&locale=es" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benitoquib&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Contacto
 
 Si buscas un desarrollador comprometido, con enfoque en backend y mentalidad de crecimiento, puedes contactarme directamente:
