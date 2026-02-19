@@ -132,17 +132,3 @@ Si buscas un desarrollador con enfoque en backend, mentalidad de crecimiento y c
 🔗 **LinkedIn:** [https://www.linkedin.com/in/andres-santos-490b64254/](https://www.linkedin.com/in/andres-santos-490b64254/)
 🐙 **GitHub:** [https://github.com/AndresSantosSotec](https://github.com/AndresSantosSotec)
 
----
-
-> ✨ *El buen código no solo funciona, también inspira.*
-
----
-
-Si quieres, ahora puedo:
-
-* 🔥 Hacer una versión más agresiva estilo “Top 1% Backend LATAM”
-* 🧠 Optimizarlo para pasar filtros ATS internacionales
-* 🌍 Traducirlo al inglés versión recruiter-ready
-* 💰 Ajustarlo para aplicar a empresas de USA / Europa
-
-Tú dime hacia dónde apuntamos y lo dejamos nivel Senior real.
