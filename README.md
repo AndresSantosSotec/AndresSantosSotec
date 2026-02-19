@@ -102,23 +102,7 @@ API diseñada para automatizar procesos de migración y consolidación de inform
 🔗 Repositorio:
 [https://github.com/AndresSantosSotec/PG2_Demo](https://github.com/AndresSantosSotec/PG2_Demo)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresSantosSotec&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSantosSotec&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndresSantosSotec&theme=github-dark&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🎯 Objetivos Profesionales
 
