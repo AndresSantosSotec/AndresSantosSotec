@@ -1,8 +1,3 @@
-Aquí tienes tu **README completo en Markdown**, optimizado, profesional y coherente con tu usuario real de GitHub.
-Listo para copiar y pegar en tu perfil 👇
-
----
-
 # 👋 Andrés Santos
 
 ## 🚀 Backend-Focused Full Stack Developer | APIs & Scalable Systems
@@ -102,7 +97,7 @@ API diseñada para automatizar procesos de migración y consolidación de inform
 🔗 Repositorio:
 [https://github.com/AndresSantosSotec/PG2_Demo](https://github.com/AndresSantosSotec/PG2_Demo)
 
-
+---
 
 ## 🎯 Objetivos Profesionales
 
@@ -132,13 +127,18 @@ Si buscas un desarrollador con enfoque en backend, mentalidad de crecimiento y c
 🔗 **LinkedIn:** [https://www.linkedin.com/in/andres-santos-490b64254/](https://www.linkedin.com/in/andres-santos-490b64254/)
 🐙 **GitHub:** [https://github.com/AndresSantosSotec](https://github.com/AndresSantosSotec)
 
-## My Stats
+---
+
+## 📊 My Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AndresSantosSotec&theme=tokyonight&hide_border=true&locale=es" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSantosSotec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresSantosSotec&theme=tokyo-night&hide_border=true" />
 </p>
-
-
