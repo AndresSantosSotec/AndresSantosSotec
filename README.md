@@ -132,3 +132,13 @@ Si buscas un desarrollador con enfoque en backend, mentalidad de crecimiento y c
 🔗 **LinkedIn:** [https://www.linkedin.com/in/andres-santos-490b64254/](https://www.linkedin.com/in/andres-santos-490b64254/)
 🐙 **GitHub:** [https://github.com/AndresSantosSotec](https://github.com/AndresSantosSotec)
 
+## My Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AndresSantosSotec&theme=tokyonight&hide_border=true&locale=es" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresSantosSotec&theme=tokyo-night&hide_border=true" />
+</p>
+
+
